@@ -153,8 +153,8 @@ global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '+62 822-8721-9167'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
+global.nomorbot = '6281357580863'
+global.nomorown = '6285730794089'
 global.namebot = 'Sad-Bot'
 global.nameown = 'Papah-Chan'
 global.thumb2 = fs.readFileSync('./papah.jpg')
